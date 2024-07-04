@@ -13,4 +13,9 @@ const App = () => {
             <Skills />
             <Experience />
             <Education />
-    )
+        </div>
+    );
+}
+
+export default App;
+    
